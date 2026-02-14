@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "附睾精液囊肿____",
+        "model_choice": "A",
+        "correct_option": "B",
+        "options": [
+            {
+                "option": "A",
+                "text": "精子自附睾管溢出至周围组织形成的囊肿",
+                "logprob": -0.86719,
+                "probability": "42.01%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "B",
+                "text": "睾丸网或输出小管扩张形成囊肿，囊肿液中可见精子或精子碎片",
+                "logprob": -0.86719,
+                "probability": "42.01%",
+                "tags": [
+                    "Correct"
+                ]
+            },
+            {
+                "option": "C",
+                "text": "囊肿为质硬的圆形包块",
+                "logprob": -2.23438,
+                "probability": "10.71%",
+                "tags": []
+            },
+            {
+                "option": "D",
+                "text": "囊肿与周围组织界限不清",
+                "logprob": -2.98438,
+                "probability": "5.06%",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "有关非ST段抬高心肌梗死的治疗方案，以下哪项正确____",
+        "model_choice": "C",
+        "correct_option": "D",
+        "options": [
+            {
+                "option": "A",
+                "text": "溶栓是基础治疗",
+                "logprob": -1.47656,
+                "probability": "22.84%",
+                "tags": []
+            },
+            {
+                "option": "B",
+                "text": "低危险组不必使用药物",
+                "logprob": -2.34375,
+                "probability": "9.60%",
+                "tags": []
+            },
+            {
+                "option": "C",
+                "text": "中危险组以阿司匹林和肝素尤其是低分子量肝素治疗为主",
+                "logprob": -0.60156,
+                "probability": "54.80%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "D",
+                "text": "高危险组以介入治疗为首选",
+                "logprob": -2.34375,
+                "probability": "9.60%",
+                "tags": [
+                    "Correct"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "男性，65岁。昏迷10小时。血气分析：$pH$ 7．26，$PaCO_2$82mmHg，$PaO_2$ 45mmHg。下列哪项处理不适宜____",
+        "model_choice": "B",
+        "correct_option": "D",
+        "options": [
+            {
+                "option": "A",
+                "text": "机械通气",
+                "logprob": -1.78906,
+                "probability": "16.71%",
+                "tags": []
+            },
+            {
+                "option": "B",
+                "text": "呼吸兴奋剂",
+                "logprob": -0.78906,
+                "probability": "45.43%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "C",
+                "text": "支持疗法",
+                "logprob": -2.04688,
+                "probability": "12.91%",
+                "tags": []
+            },
+            {
+                "option": "D",
+                "text": "高浓度给氧",
+                "logprob": -1.41406,
+                "probability": "24.32%",
+                "tags": [
+                    "Correct"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "某患者，5月前曾进行链激酶治疗心肌梗死，现出现大面积肺血栓栓塞症，应该如何治疗____",
+        "model_choice": "C",
+        "correct_option": "B",
+        "options": [
+            {
+                "option": "A",
+                "text": "继续使用链激酶溶栓",
+                "logprob": -2.25,
+                "probability": "10.54%",
+                "tags": []
+            },
+            {
+                "option": "B",
+                "text": "用尿激酶溶栓",
+                "logprob": -1.88281,
+                "probability": "15.22%",
+                "tags": [
+                    "Correct"
+                ]
+            },
+            {
+                "option": "C",
+                "text": "严禁用任何的溶栓药",
+                "logprob": -0.38086,
+                "probability": "68.33%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "D",
+                "text": "立刻使用负荷量的华法林",
+                "logprob": -2.875,
+                "probability": "5.64%",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "不符合病毒性肺炎描述的是____",
+        "model_choice": "D",
+        "correct_option": "B",
+        "options": [
+            {
+                "option": "A",
+                "text": "病灶可呈小叶性分布",
+                "logprob": -1.4375,
+                "probability": "23.75%",
+                "tags": []
+            },
+            {
+                "option": "B",
+                "text": "肺泡腔内有大量渗出物",
+                "logprob": -1.6875,
+                "probability": "18.50%",
+                "tags": [
+                    "Correct"
+                ]
+            },
+            {
+                "option": "C",
+                "text": "可有透明膜形成",
+                "logprob": -1.3125,
+                "probability": "26.91%",
+                "tags": []
+            },
+            {
+                "option": "D",
+                "text": "肉眼观病变不明显",
+                "logprob": -1.1875,
+                "probability": "30.50%",
+                "tags": [
+                    "Model"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "基底细胞癌最常见的好发部位是____",
+        "model_choice": "A",
+        "correct_option": "D",
+        "options": [
+            {
+                "option": "A",
+                "text": "小阴唇",
+                "logprob": -0.91406,
+                "probability": "40.09%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "B",
+                "text": "前庭",
+                "logprob": -1.53906,
+                "probability": "21.46%",
+                "tags": []
+            },
+            {
+                "option": "C",
+                "text": "阴蒂",
+                "logprob": -1.53906,
+                "probability": "21.46%",
+                "tags": []
+            },
+            {
+                "option": "D",
+                "text": "大阴唇",
+                "logprob": -1.78906,
+                "probability": "16.71%",
+                "tags": [
+                    "Correct"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "下列哪项不符合糖尿病酮症酸中毒的实验室检查结果____",
+        "model_choice": "D",
+        "correct_option": "C",
+        "options": [
+            {
+                "option": "A",
+                "text": "pH＜7．35",
+                "logprob": -2.39062,
+                "probability": "9.16%",
+                "tags": []
+            },
+            {
+                "option": "B",
+                "text": "血酮体＞4．8mmol／L",
+                "logprob": -2.26562,
+                "probability": "10.38%",
+                "tags": []
+            },
+            {
+                "option": "C",
+                "text": "血糖多＞33．3mmol／L",
+                "logprob": -2.14062,
+                "probability": "11.76%",
+                "tags": [
+                    "Correct"
+                ]
+            },
+            {
+                "option": "D",
+                "text": "血白细胞计数＞10×10^9 ／L",
+                "logprob": -0.38477,
+                "probability": "68.06%",
+                "tags": [
+                    "Model"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "男性，70岁。慢性阻塞性肺病史20余年，神志不清5小时。体检：发绀，呼吸浅促，心率：120次／分，律齐，两肺闻及干湿啰音。血压75／45mmHg。血pH7．18，$PaCO_2$ 5mmHg，$PaO_2$ 49mmHg。此时哪项治疗措施不适宜____",
+        "model_choice": "D",
+        "correct_option": "A",
+        "options": [
+            {
+                "option": "A",
+                "text": "呼吸机辅助通气",
+                "logprob": -1.73438,
+                "probability": "17.65%",
+                "tags": [
+                    "Correct"
+                ]
+            },
+            {
+                "option": "B",
+                "text": "纠正低血压",
+                "logprob": -1.60938,
+                "probability": "20.00%",
+                "tags": []
+            },
+            {
+                "option": "C",
+                "text": "持续低浓度吸氧",
+                "logprob": -1.23438,
+                "probability": "29.10%",
+                "tags": []
+            },
+            {
+                "option": "D",
+                "text": "呼吸兴奋剂",
+                "logprob": -1.10938,
+                "probability": "32.98%",
+                "tags": [
+                    "Model"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "女性，29岁，因牙龈渗血伴低热1周入院，实验室检查血常规：白细胞11．3×10^9 ／L、红细胞2．6×10^12 ／L、 血红蛋白68g／L、血小板30×10^9 ／L，骨髓穿刺结果提示急性单核细胞白血病(M5)，以下哪个体征最少见____",
+        "model_choice": "B",
+        "correct_option": "D",
+        "options": [
+            {
+                "option": "A",
+                "text": "牙龈肿胀",
+                "logprob": -2.07812,
+                "probability": "12.52%",
+                "tags": []
+            },
+            {
+                "option": "B",
+                "text": "胸骨压痛",
+                "logprob": -1.07812,
+                "probability": "34.02%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "C",
+                "text": "肝辟肿大",
+                "logprob": -1.45312,
+                "probability": "23.38%",
+                "tags": []
+            },
+            {
+                "option": "D",
+                "text": "巩膜黄染",
+                "logprob": -1.20312,
+                "probability": "30.03%",
+                "tags": [
+                    "Correct"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "早期胃癌最多见的类型是____",
+        "model_choice": "B",
+        "correct_option": "C",
+        "options": [
+            {
+                "option": "A",
+                "text": "隆起型",
+                "logprob": -1.55469,
+                "probability": "21.13%",
+                "tags": []
+            },
+            {
+                "option": "B",
+                "text": "表浅型",
+                "logprob": -0.80469,
+                "probability": "44.72%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "C",
+                "text": "凹陷型",
+                "logprob": -1.55469,
+                "probability": "21.13%",
+                "tags": [
+                    "Correct"
+                ]
+            },
+            {
+                "option": "D",
+                "text": "表浅平坦型",
+                "logprob": -2.04688,
+                "probability": "12.91%",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question": "最易和肺转移癌相混淆的是____",
+        "model_choice": "B",
+        "correct_option": "C",
+        "options": [
+            {
+                "option": "A",
+                "text": "中央型肺癌",
+                "logprob": -1.25,
+                "probability": "28.65%",
+                "tags": []
+            },
+            {
+                "option": "B",
+                "text": "周围型肺癌",
+                "logprob": -1.0,
+                "probability": "36.79%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "C",
+                "text": "弥漫型肺癌",
+                "logprob": -1.5,
+                "probability": "22.31%",
+                "tags": [
+                    "Correct"
+                ]
+            },
+            {
+                "option": "D",
+                "text": "大细胞肺癌",
+                "logprob": -2.125,
+                "probability": "11.94%",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question": "硅尘可导致硅沉着病，其中致病力最强的硅尘颗粒直径为____",
+        "model_choice": "A",
+        "correct_option": "D",
+        "options": [
+            {
+                "option": "A",
+                "text": "＞5μm",
+                "logprob": -0.98047,
+                "probability": "37.51%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "B",
+                "text": "4～5μm",
+                "logprob": -1.35156,
+                "probability": "25.88%",
+                "tags": []
+            },
+            {
+                "option": "C",
+                "text": "2～3／μm",
+                "logprob": -1.22656,
+                "probability": "29.33%",
+                "tags": []
+            },
+            {
+                "option": "D",
+                "text": "1～2μm",
+                "logprob": -2.60938,
+                "probability": "7.36%",
+                "tags": [
+                    "Correct"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question": "X线片上最易与周同型肺癌相混淆的肺结核病是____",
+        "model_choice": "C",
+        "correct_option": "A",
+        "options": [
+            {
+                "option": "A",
+                "text": "结核球",
+                "logprob": -1.28125,
+                "probability": "27.77%",
+                "tags": [
+                    "Correct"
+                ]
+            },
+            {
+                "option": "B",
+                "text": "原发综合征",
+                "logprob": -1.28125,
+                "probability": "27.77%",
+                "tags": []
+            },
+            {
+                "option": "C",
+                "text": "局灶型肺结核",
+                "logprob": -0.91016,
+                "probability": "40.25%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "D",
+                "text": "结核性胸膜炎",
+                "logprob": -3.15625,
+                "probability": "4.26%",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question": "急性粒细胞性白血病时，瘤细胞在骨膜下浸润，聚集成肿块，称为____",
+        "model_choice": "A",
+        "correct_option": "C",
+        "options": [
+            {
+                "option": "A",
+                "text": "棕色瘤",
+                "logprob": -0.36328,
+                "probability": "69.54%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "B",
+                "text": "黄色瘤",
+                "logprob": -1.74219,
+                "probability": "17.51%",
+                "tags": []
+            },
+            {
+                "option": "C",
+                "text": "绿色瘤",
+                "logprob": -2.10938,
+                "probability": "12.13%",
+                "tags": [
+                    "Correct"
+                ]
+            },
+            {
+                "option": "D",
+                "text": "Wilms瘤",
+                "logprob": -4.875,
+                "probability": "0.76%",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question": "下列哪项检查不是反映慢性溶血性贫血时骨髓代偿增生的证据____",
+        "model_choice": "B",
+        "correct_option": "D",
+        "options": [
+            {
+                "option": "A",
+                "text": "骨髓代偿增生",
+                "logprob": -1.30469,
+                "probability": "27.13%",
+                "tags": []
+            },
+            {
+                "option": "B",
+                "text": "末梢血出现幼红细胞",
+                "logprob": -1.17969,
+                "probability": "30.74%",
+                "tags": [
+                    "Model"
+                ]
+            },
+            {
+                "option": "C",
+                "text": "骨髓幼红细胞增生活跃",
+                "logprob": -2.1875,
+                "probability": "11.22%",
+                "tags": []
+            },
+            {
+                "option": "D",
+                "text": "外周血涂片发现红细胞碎片",
+                "logprob": -1.17969,
+                "probability": "30.74%",
+                "tags": [
+                    "Correct"
+                ]
+            }
+        ]
+    }
+]
